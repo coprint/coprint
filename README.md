@@ -1,6 +1,9 @@
 # Color your 3D Prints
 Co Print products enable your 3D printer to utilize multiple filaments, enabling the production of models with multiple colors and materials.
 
+![]([https://github.com/coprint/coprint/blob/main/coloredprint.gif?raw=true))
+
+
 https://github.com/coprint/coprint/blob/main/coloredprint.gif?raw=true
 
 <!---
